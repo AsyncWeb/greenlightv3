@@ -281,7 +281,7 @@
         "role_mapping_by_email_description": "Map the user to a role using their email. Must be in the format: role1=email1, role2=email2",
         "enter_role_mapping_rule": "Enter a role mapping rule",
         "resync_on_login": "Resync User Data On Every Sign In",
-        "resync_on_login_description": "Resync a user's information every time they sign in, making the external authentication provider always match the information in Greenlight",
+        "resync_on_login_description": "Resync a user's information every time they sign in, making the external authentication provider always match the information.",
         "default_role": "Default Role",
         "default_role_description": "The default role to be assigned to newly created users",
         "registration_method": "Registration Method",
@@ -303,7 +303,7 @@
         "allow_room_to_be_recorded": "Allow Room to be recorded",
         "allow_room_to_be_recorded_description": "Allows room owners to specify whether they want the option to record a room or not. If enabled, the moderator must still click the 'Record' button once the meeting has started.",
         "require_user_signed_in": "Require users to be signed in before joining",
-        "require_user_signed_in_description": "Only allows users with a Greenlight account to join the meeting. If they are not signed in, they will be redirected to the login page when attempting to join a room.",
+        "require_user_signed_in_description": "Only allows users with a  account to join the meeting. If they are not signed in, they will be redirected to the login page when attempting to join a room.",
         "require_mod_approval": "Require moderator approval before joining",
         "require_mod_approval_description": "Prompts the moderator of the  meeting when a user tries to join. If the user is approved, they will be able to join the meeting.",
         "allow_any_user_to_start_meeting": "Allow any user to start a meeting",
@@ -437,7 +437,7 @@
   "account_activation_page": {
     "title": "Account Activation",
     "account_unverified": "Your account has not been verified yet.",
-    "message": "In order to use Greenlight, please verify your account by following the instructions in the activation email that has been sent to you.",
+    "message": "In order to use, please verify your account by following the instructions in the activation email that has been sent to you.",
     "resend_activation_link": "If you haven't received an activation email or if you are having a problem using it, click on the button below to request a new activation email.",
     "resend_btn_lbl": "Resend Verification"
   },
